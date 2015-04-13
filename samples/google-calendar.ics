@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VEVENT
+DTSTART:20150413T203000Z
+DTEND:20150413T210000Z
+DTSTAMP:20150410T131845Z
+ORGANIZER;CN=Stephanie Evans:mailto:stephanie-evans@pluralsight.com
+UID:jarinh5ob3h9od0aptl328l2p4@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;RSVP=TRUE
+ ;CN=Stephanie Evans;X-NUM-GUESTS=0:mailto:stephanie-evans@pluralsight.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=
+ TRUE;CN=Si Jobling;X-NUM-GUESTS=0:mailto:simon.jobling@gmail.com
+CREATED:20150410T131843Z
+DESCRIPTION:Visit this link to reschedule: https://assistant.to/schedule/se
+ lect/kkjn2oo5-214129\n\nLocation: skype\n\n\nView your event at https://www
+ .google.com/calendar/event?action=VIEW&eid=amFyaW5oNW9iM2g5b2QwYXB0bDMyOGwy
+ cDQgc2ltb24uam9ibGluZ0Bt&tok=MzEjc3RlcGhhbmllLWV2YW5zQHBsdXJhbHNpZ2h0LmNvbW
+ NmM2EyYzAyM2JjYTIwMjNhYTRjOTVlMDQyMjFmZjlmZGUyNWJmNGE&ctz=Europe/London&hl=
+ en_GB.
+LAST-MODIFIED:20150410T131844Z
+LOCATION:skype
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Simon & Stephanie: Meeting
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
