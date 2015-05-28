@@ -71,7 +71,7 @@ Provide usable, engaging data for sports events
  * **Locations** – create, edit, flag
 	* **Name**
 	* **Location** – address, postcode, long/lat
-	* **Contact details** – telephone, email
+	* **Contact details** – telephone, email, website
 	* **Social** – connect with Google, Facebook, Twitter, Foursquare, 
  * **Teams** - create, edit, flag
 	* **Profile** – name, badge
